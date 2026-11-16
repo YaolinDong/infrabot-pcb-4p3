@@ -1,0 +1,17 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.eprj3 text eol=lf
+*.esch2 text eol=lf
+*.epcb2 text eol=lf
+*.ecfg text eol=lf
+*.epan2 text eol=lf
+# Preserve exact audited manufacturer export bytes, including CRLF CSVs.
+*.csv -text
+*.zip binary
+*.png binary
+*.efoo binary
+*.step binary
+*.pdf binary

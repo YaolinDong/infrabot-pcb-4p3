@@ -1,0 +1,16 @@
+# Rebuildable output; release ZIPs can be uploaded as GitHub Release assets.
+/.build/
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# EasyEDA session state and local backups.
+*.lceda-lock
+*_backup/
+# Credentials, local environment, editor files.
+.env
+.env.*
+!.env.example
+*.swp
+*.swo
+.DS_Store
