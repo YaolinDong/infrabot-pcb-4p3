@@ -1,0 +1,15 @@
+{
+  "passed_component_parity": true,
+  "components": 105,
+  "different_ids": [],
+  "ignored_representation_fields": [
+    "3D Model",
+    "3D Model Title",
+    "3D Model Transform",
+    "PCB Layer",
+    "Symbol",
+    "SymbolName"
+  ],
+  "resolved_property_references": [],
+  "channel_id_checked": true
+}

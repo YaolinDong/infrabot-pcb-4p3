@@ -1,0 +1,283 @@
+{
+  "bug_id": "R8-BUG-SW1-SILK-001",
+  "revision": "R8",
+  "passed": true,
+  "errors": [],
+  "baseline_revision": "R8_BUTTON_ROW_20261102",
+  "current_review": "R8_FINAL_20261114_C",
+  "layer_comparison": [
+    {
+      "file": "Gerber_BoardOutlineLayer.GKO",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "e9aa95b83b6117dbff4c607b13fb0ae8c9470978e933ccf482ff87e17eb4bee5",
+      "after_sha256": "e1967f37d3659c7939850b5fa55c33dd1094a4bdd1a37bcea778b75e2c41a9b3"
+    },
+    {
+      "file": "Gerber_BottomLayer.GBL",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "5a4b4dca582f9c1713267e3c6def7637521f2ee161f182b7ca7eba66a78a3539",
+      "after_sha256": "50e23a0b14f36cb7da43fe4655c6bed513c2d412bad10ff3c8fcd7169dca0676"
+    },
+    {
+      "file": "Gerber_BottomSilkscreenLayer.GBO",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "69934fb7ae3ef7216b72ea7ff423586e355bf02cd2ff17636994dcf8b21828bc",
+      "after_sha256": "32501eac15b74125057f152ee49520a4dbf5914697174be9e862ec3a5511a572"
+    },
+    {
+      "file": "Gerber_BottomSolderMaskLayer.GBS",
+      "geometry_changed": true,
+      "robust_delta_area_mm2": 1.0172832415835522,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "a0e97ce179e57113ce106321d49f90ae31b41e7d377249ab085b1f547262cc03",
+      "after_sha256": "9ead1c37976a64cee1b01370aa299ec697a80d1eedf0ddb6013105eafba8a57b"
+    },
+    {
+      "file": "Gerber_DocumentLayer.GDL",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "01cba79ea597a54b5e302b2959d59bbf6b56dacab58ef4f949affa763f808156",
+      "after_sha256": "04f2199d7faba1932744e39a44689243998f7885104a69a3b722967cc666dbf0"
+    },
+    {
+      "file": "Gerber_DrillDrawingLayer.GDD",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "2cf31cc48ce1acc456ddc73335d81d44262595c6ecac0f0b70746f040ac37c79",
+      "after_sha256": "4f6841b31719bff21712c5d77d1228e7b97b043578909db2408842aa3af20174"
+    },
+    {
+      "file": "Gerber_InnerLayer1.G1",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "dc6905e4fd2c6f3e2f92d70586886378eef794646ef6683e8d4d4bcbd83d084f",
+      "after_sha256": "d2af550d25cfe89c0648b6edb4ff6a71d47a97649690d1b22d6962a2d7bf9a1d"
+    },
+    {
+      "file": "Gerber_InnerLayer2.G2",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "949149df49f2919d72b4aa0c92b0523df29624af061bf3a714e28e7ebcc187f1",
+      "after_sha256": "c4ac7c16f71d492ecdf6074c0f3935450b34afe9b0f1ff28b88bc743ccc4e16d"
+    },
+    {
+      "file": "Gerber_TopLayer.GTL",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "dd3718c7bba3cf1eb64ce16c2bb17022ed4f7596615b8da4c15d9b5522d5dda2",
+      "after_sha256": "3db5c38c5f6a116871eeaf6cbc44cbff38583ea47d9677dcd3010deabd4f9e19"
+    },
+    {
+      "file": "Gerber_TopPasteMaskLayer.GTP",
+      "geometry_changed": false,
+      "robust_delta_area_mm2": 0.0,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "83f5f882876e13238f50be8f7e823fb5f28520a16a529fa0a4f46171ebf7a938",
+      "after_sha256": "eb02d7eecb8cf7aef0b8f137b016e2b19a4b2a9aaf0d861b77a37ebc90279562"
+    },
+    {
+      "file": "Gerber_TopSilkscreenLayer.GTO",
+      "geometry_changed": true,
+      "robust_delta_area_mm2": 0.5841593885414851,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "e70ef33c04f6f8d030da8d606f646c31ea58a6ff2d50f3b88f1cd40e3c0d9cad",
+      "after_sha256": "0201aa3bf1f659e8977fbdb1698025914f7a9c26bb09a2e13866728a85dc0557"
+    },
+    {
+      "file": "Gerber_TopSolderMaskLayer.GTS",
+      "geometry_changed": true,
+      "robust_delta_area_mm2": 1.0172832415835522,
+      "outside_allowed_area_mm2": 0.0,
+      "before_sha256": "fadb6ce2c8046ea94cbfe0c5d578318d90c3a8e03576db51b38d55153cc0e33c",
+      "after_sha256": "83d8dd35e8861e4bd535535f48132c1a6f4596b6a2e338a21302bbfdcd3516f1"
+    }
+  ],
+  "mask_rule_checks": [
+    {
+      "file": "Gerber_BottomSolderMaskLayer.GBS",
+      "phase": "before",
+      "xy_mm": [
+        96.5,
+        75
+      ],
+      "diameters_mm": [
+        3.2
+      ],
+      "expected_mm": 3.2,
+      "passed": true
+    },
+    {
+      "file": "Gerber_BottomSolderMaskLayer.GBS",
+      "phase": "after",
+      "xy_mm": [
+        96.5,
+        75
+      ],
+      "diameters_mm": [
+        3.3016
+      ],
+      "expected_mm": 3.3016,
+      "passed": true
+    },
+    {
+      "file": "Gerber_BottomSolderMaskLayer.GBS",
+      "phase": "before",
+      "xy_mm": [
+        96.5,
+        106
+      ],
+      "diameters_mm": [
+        3.2
+      ],
+      "expected_mm": 3.2,
+      "passed": true
+    },
+    {
+      "file": "Gerber_BottomSolderMaskLayer.GBS",
+      "phase": "after",
+      "xy_mm": [
+        96.5,
+        106
+      ],
+      "diameters_mm": [
+        3.3016
+      ],
+      "expected_mm": 3.3016,
+      "passed": true
+    },
+    {
+      "file": "Gerber_TopSolderMaskLayer.GTS",
+      "phase": "before",
+      "xy_mm": [
+        96.5,
+        75
+      ],
+      "diameters_mm": [
+        3.2
+      ],
+      "expected_mm": 3.2,
+      "passed": true
+    },
+    {
+      "file": "Gerber_TopSolderMaskLayer.GTS",
+      "phase": "after",
+      "xy_mm": [
+        96.5,
+        75
+      ],
+      "diameters_mm": [
+        3.3016
+      ],
+      "expected_mm": 3.3016,
+      "passed": true
+    },
+    {
+      "file": "Gerber_TopSolderMaskLayer.GTS",
+      "phase": "before",
+      "xy_mm": [
+        96.5,
+        106
+      ],
+      "diameters_mm": [
+        3.2
+      ],
+      "expected_mm": 3.2,
+      "passed": true
+    },
+    {
+      "file": "Gerber_TopSolderMaskLayer.GTS",
+      "phase": "after",
+      "xy_mm": [
+        96.5,
+        106
+      ],
+      "diameters_mm": [
+        3.3016
+      ],
+      "expected_mm": 3.3016,
+      "passed": true
+    }
+  ],
+  "drills": [
+    {
+      "file": "Drill_NPTH_Through.DRL",
+      "identical_geometry": true
+    },
+    {
+      "file": "Drill_PTH_Through.DRL",
+      "identical_geometry": true
+    },
+    {
+      "file": "Drill_PTH_Through_Via.DRL",
+      "identical_geometry": true
+    }
+  ],
+  "marker_probes": [
+    {
+      "location": "old_inner",
+      "xy_mm": [
+        84.80100134,
+        30.014161459999997
+      ],
+      "before_ink_fraction": 1.0,
+      "after_ink_fraction": 0.0
+    },
+    {
+      "location": "new_outer",
+      "xy_mm": [
+        94.19900134,
+        29.98584046
+      ],
+      "before_ink_fraction": 0.0,
+      "after_ink_fraction": 1.0
+    }
+  ],
+  "native_library_delta": [
+    {
+      "doc": [
+        "FOOTPRINT",
+        "0bd8e7c2139aff78"
+      ],
+      "record": [
+        "POLY",
+        "e11"
+      ]
+    },
+    {
+      "doc": [
+        "FOOTPRINT",
+        "0bd8e7c2139aff78"
+      ],
+      "record": [
+        "POLY",
+        "e12"
+      ]
+    },
+    {
+      "doc": [
+        "FOOTPRINT",
+        "0bd8e7c2139aff78"
+      ],
+      "record": [
+        "POLY",
+        "e13"
+      ]
+    }
+  ],
+  "component_pad_count": 486,
+  "all_pads_and_nets_unchanged": true,
+  "BOM_unchanged": true,
+  "CPL_unchanged": true,
+  "method": "Native R8 Gerber ordered geometry; 1 um numerical buffer, 0.0001 mm2 area threshold. Only old/new SW1 TOP SILK boxes and CASE10/11 mask aperture expansion to 3.3016 mm are allowed. Copper, paste, outline, drills, pads, nets and placement remain unchanged. Exact Channel IDs/collinear serialization are projected; regenerated POURED cache is checked by independent native copper geometry."
+}

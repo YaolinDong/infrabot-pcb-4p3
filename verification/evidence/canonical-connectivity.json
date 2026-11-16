@@ -1,0 +1,24 @@
+{
+  "schematic_expected_connections": 338,
+  "schematic_found_connections": 338,
+  "schematic": {
+    "missing": [],
+    "wrong": [],
+    "unexpected": [],
+    "ambiguous": []
+  },
+  "pcb_expected_connections": 338,
+  "pcb_component_pad_count": 475,
+  "pcb": {
+    "missing": [],
+    "wrong": [],
+    "unexpected": []
+  },
+  "component_count": 105,
+  "j7_pads": 0,
+  "structural_errors": [],
+  "limitations": [
+    "Checks net names and pin mapping; not a substitute for geometric DRC, ERC, or electrical simulation."
+  ],
+  "passed": true
+}

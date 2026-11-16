@@ -1,0 +1,18 @@
+{
+  "schema": "infrabot-public-export-review-v2",
+  "design_revision": "R8",
+  "review_date": "2026-11-16",
+  "author": "YaolinDong",
+  "status": "DRAFT",
+  "source_revision": "82eabf8a6863bd200d86f1fabf2b9cc59a0c34e7",
+  "source_pcb_sha256": "de1463d4c448b631add00d858eaf174d325a8bd0df70f153585ad6e5bf22ebd2",
+  "public_pcb_sha256": "de58bcca2811995e095fde4f8d046dbdb998e814218b10896f59dc8b429fd2f8",
+  "historical_public_change": "LED2 author-local 3D model link detached; transform and STEP retained.",
+  "current_changes": "Schematic function grouping, symbol placement and local wiring, with unchanged part values and pin networks; 104 PCB Channel IDs synchronized.",
+  "author_silkscreen_changed": false,
+  "electrical_network_changed": false,
+  "geometry_changed_on_PCB": false,
+  "original_private_worktree_modified": false,
+  "details": "verification/schematic-layout-review.json",
+  "readability_followup": "Text clearance and five local schematic wire paths corrected; PDF symbol-text baseline/annotation offsets applied. PCB and manufacturing file bytes unchanged in this correction."
+}

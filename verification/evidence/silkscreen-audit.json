@@ -1,0 +1,24 @@
+{
+  "method": "Silk ink vs native mask openings; curved edges polygonized to 0.005 mm. Areas <=0.0001 mm\u00b2 are numerical tolerance.",
+  "board_mm": [
+    100,
+    130
+  ],
+  "results": {
+    "top": {
+      "overlap_objects": 0,
+      "overlap_area_mm2": 0,
+      "overlaps": [],
+      "outside_outline_area_mm2": 0.0,
+      "outside_bounds_mm": null
+    },
+    "bottom": {
+      "overlap_objects": 0,
+      "overlap_area_mm2": 0,
+      "overlaps": [],
+      "outside_outline_area_mm2": 0.0,
+      "outside_bounds_mm": null
+    }
+  },
+  "passed": true
+}

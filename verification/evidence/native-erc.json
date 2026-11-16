@@ -1,0 +1,18 @@
+[
+  {
+    "type": "warn",
+    "rule": "ATTRMATCHCODE",
+    "primitives": [
+      {
+        "primitiveId": "05472ca71d8972c3",
+        "sheet": "9b10c3a29eccf3e8",
+        "name": "SW1($2I121)"
+      },
+      {
+        "primitiveId": "d9df2c76e69ea33a",
+        "sheet": "e25db60b0d2ab532",
+        "name": "LED2($6I26)"
+      }
+    ]
+  }
+]

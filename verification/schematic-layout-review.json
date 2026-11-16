@@ -1,0 +1,73 @@
+{
+  "schema": "infrabot-schematic-layout-review-v1",
+  "date": "2026-11-16",
+  "author": "YaolinDong",
+  "status": "DRAFT_CHECKED",
+  "assigned_pin_connections_before": 338,
+  "assigned_pin_connections_after": 338,
+  "native_components": 105,
+  "native_pin_net_mismatches": 0,
+  "source_sheets": [
+    {
+      "sheet": "Core_BTB",
+      "components": 4,
+      "source_sha256": "825dddce1f04e96082a72458fd17ded912af7952b6c3e9207f578a7d93eed83a",
+      "part_values_and_libraries_preserved": true
+    },
+    {
+      "sheet": "Ethernet",
+      "components": 35,
+      "source_sha256": "d4b8f9e53809b5ac184447c5d8c32fd05857ca0ba72623b57daf323fa5487ef2",
+      "part_values_and_libraries_preserved": true
+    },
+    {
+      "sheet": "LCD",
+      "components": 0,
+      "source_sha256": "354476825ba66221ec14cd738b8a1b8c48e89d74c5bd8055e23ba71d1f33d877",
+      "part_values_and_libraries_preserved": true
+    },
+    {
+      "sheet": "Panel",
+      "components": 17,
+      "source_sha256": "a1217a3019508ec0781295724de52933dbd0717f397867d58318ad0da765cc7a",
+      "part_values_and_libraries_preserved": true
+    },
+    {
+      "sheet": "Power",
+      "components": 28,
+      "source_sha256": "f8fd9cf71a0c6e1fcea161d86285eb73ac37d324320e8f16b96e93adca284a0d",
+      "part_values_and_libraries_preserved": true
+    },
+    {
+      "sheet": "UART_CAN_SWD",
+      "components": 21,
+      "source_sha256": "1c4d9f919d9029aaf9b381fcafdee189e15f46467c2dd66452def744842b51a6",
+      "part_values_and_libraries_preserved": true
+    }
+  ],
+  "PCB_changed_fields": [
+    "COMPONENT.attrs.Channel ID"
+  ],
+  "PCB_association_updates": 104,
+  "PCB_geometry_and_other_fields_unchanged": true,
+  "PCB_author_silkscreen_preserved": true,
+  "manufacturing_files_byte_identical": {
+    "manufacturing/R8/Gerber.zip": "c96aff78beec4869417f1486f5555a6fd66d97f53c79f96db852d79fc642c725",
+    "manufacturing/R8/BOM.csv": "23c1f88304db65e837446a5e9752a19e2f2efacd4e210705e2ba34f167dcd144",
+    "manufacturing/R8/CPL.csv": "7d95a46fb7ab4ef07a329376707a688b549493b6451f8753c4a028ac66faaf8e"
+  },
+  "native_ERC_errors": 0,
+  "native_ERC_warning_groups": 1,
+  "native_PCB_DRC": [],
+  "git_commit_created": false,
+  "physical_validation": "NOT_PERFORMED",
+  "text_clearance_correction": {
+    "details": "verification/schematic-text-review.json",
+    "PCB_byte_identical": true,
+    "native_ERC_errors": 0,
+    "native_PCB_DRC": [],
+    "pin_net_mismatches": 0,
+    "visual_PDF_pages_reviewed": 6,
+    "minimum_text_gap_native_units": 1.5
+  }
+}
