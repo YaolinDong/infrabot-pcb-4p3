@@ -1,0 +1,141 @@
+{
+  "name": "infrabot_pcb_4p3",
+  "owner_uuid": "3ecb3a1d40be409081d4b189a895568b",
+  "creator_uuid": "3ecb3a1d40be409081d4b189a895568b",
+  "created_at": "2026-10-30 00:41:12",
+  "updated_at": "2026-10-30 00:41:12",
+  "modifier_uuid": "3ecb3a1d40be409081d4b189a895568b",
+  "content": "InfraBot 4.3-inch four-layer baseboard; R8 final with SW1 silkscreen direction correction",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "40dbf20c18fb71d3",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "profile": {
+    "boards": {
+      "714755d1ba712c6e": {
+        "uuid": "714755d1ba712c6e",
+        "title": "Board1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "b7097338191ea6d2": {
+        "uuid": "b7097338191ea6d2",
+        "name": "Schematic1",
+        "board": "714755d1ba712c6e",
+        "source": "",
+        "version": "1794658643315",
+        "updateTime": 1794658643315
+      }
+    },
+    "sheets": {
+      "40dbf20c18fb71d3": {
+        "uuid": "40dbf20c18fb71d3",
+        "title": "Core_BTB",
+        "schematic_uuid": "b7097338191ea6d2",
+        "zIndex": 1,
+        "source": "",
+        "version": "1793315954473",
+        "updateTime": 1793315954473
+      },
+      "8834c6bee9bbe23e": {
+        "uuid": "8834c6bee9bbe23e",
+        "title": "Ethernet",
+        "schematic_uuid": "b7097338191ea6d2",
+        "zIndex": 3,
+        "source": "",
+        "version": "1793309868036",
+        "updateTime": 1793309868036
+      },
+      "f43d8ec9e3208dbe": {
+        "uuid": "f43d8ec9e3208dbe",
+        "title": "LCD",
+        "schematic_uuid": "b7097338191ea6d2",
+        "zIndex": 5,
+        "source": "",
+        "version": "1793296317847",
+        "updateTime": 1793296317847
+      },
+      "e25db60b0d2ab532": {
+        "uuid": "e25db60b0d2ab532",
+        "title": "Panel",
+        "schematic_uuid": "b7097338191ea6d2",
+        "zIndex": 6,
+        "source": "",
+        "version": "1793470391699",
+        "updateTime": 1793470391699
+      },
+      "9b10c3a29eccf3e8": {
+        "uuid": "9b10c3a29eccf3e8",
+        "title": "Power",
+        "schematic_uuid": "b7097338191ea6d2",
+        "zIndex": 2,
+        "source": "",
+        "version": "1794658643315",
+        "updateTime": 1794658643315
+      },
+      "db667f90871ecf1b": {
+        "uuid": "db667f90871ecf1b",
+        "title": "UART_CAN_SWD",
+        "schematic_uuid": "b7097338191ea6d2",
+        "zIndex": 4,
+        "source": "",
+        "version": "1793364604526",
+        "updateTime": 1793364604526
+      }
+    },
+    "pcbs": {
+      "946142862f6636be": {
+        "uuid": "946142862f6636be",
+        "title": "PCB1",
+        "board": "714755d1ba712c6e",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1794660076884",
+        "updateTime": 1794660076884
+      }
+    },
+    "panels": {
+      "190ef0dfff0bc718": {
+        "uuid": "190ef0dfff0bc718",
+        "title": "Panel1",
+        "zIndex": null
+      }
+    },
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "3ecb3a1d40be409081d4b189a895568b"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  },
+  "config": {
+    "defaultSheet": "40dbf20c18fb71d3",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE",
+          "multipartCrossLayer": true,
+          "nonElectronicAddIntoBom": false,
+          "nonElectronicUpdatePcb": false
+        }
+      }
+    }
+  }
+}

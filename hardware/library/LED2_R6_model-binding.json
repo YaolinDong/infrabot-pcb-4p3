@@ -1,0 +1,15 @@
+{
+  "model_file": "hardware/library/LED2_R6_formed.step",
+  "transform_mil": [
+    216.53543307086616,
+    228.3464566929134,
+    594.488188976378,
+    0,
+    0,
+    0,
+    -5.905511811023622,
+    0,
+    -133.85826771653544
+  ],
+  "model_source": "Parametric assembly model; pre-form leads and use 4 mm resin standoff. Reimport the STEP when moving machines."
+}

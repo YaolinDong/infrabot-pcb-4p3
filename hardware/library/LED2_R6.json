@@ -1,0 +1,31 @@
+{
+  "name": "INFRABOT_LED_RGB5_STAGGER_P1.27_D0.90_R6",
+  "pins_mm": {
+    "1": [
+      1.905,
+      -0.9
+    ],
+    "2": [
+      0.635,
+      0.9
+    ],
+    "3": [
+      -0.635,
+      -0.9
+    ],
+    "4": [
+      -1.905,
+      0.9
+    ]
+  },
+  "hole_mm": 0.9,
+  "pad_mm": 1.5,
+  "annulus_mm": 0.3,
+  "adjacent_pad_gap_mm": 0.7029298672449835,
+  "resin_standoff_mm": 4,
+  "model_total_z_mm": [
+    -3.4,
+    11.7
+  ],
+  "assembly": "Pre-form leads to the staggered holes; preserve numbering and the longest common-anode lead. Model is an assembly representation."
+}
