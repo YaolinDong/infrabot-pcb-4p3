@@ -1,0 +1,197 @@
+{
+  "schema": "infrabot-public-release-v1",
+  "design_revision": "R8",
+  "source_root": "hardware/infrabot_pcb_4p3",
+  "content_status": "DRAFT_NOT_RELEASED",
+  "manufacturing_and_physical_validation": "USER_REVIEW",
+  "scope": "File hashes for delivered native hardware, manufacturing data, previews, indexed schematic PDF/SVG and verification evidence. No dependency on omitted private snapshots. Tooling and general document prose are maintained separately.",
+  "files": [
+    {
+      "path": "docs/images/bottom.png",
+      "bytes": 24183,
+      "sha256": "7f97969131400080352606d14fb7f4bcc632de65c94ab03ab55222726e451527"
+    },
+    {
+      "path": "docs/images/isometric.png",
+      "bytes": 96225,
+      "sha256": "bef2162b14beea973504b1f969f3853b9c1619274824335e9a35d85d495bd9ca"
+    },
+    {
+      "path": "docs/images/top.png",
+      "bytes": 63466,
+      "sha256": "fd19f15858f6853adc7fef6e3a03bbe924816c6738b47c570f408c09cc751681"
+    },
+    {
+      "path": "docs/schematics/README.md",
+      "bytes": 3000,
+      "sha256": "64a25632266a10b88c7335ab2d50a2e49e2f3b65eaa9a525507deb9b55157ce6"
+    },
+    {
+      "path": "docs/schematics/infrabot-pcb-4p3-R8-schematic.pdf",
+      "bytes": 487122,
+      "sha256": "c863e4f8fe7645800f13e45dfe3a173e2936aa0d08e6a440bf3d5badb41f51ca"
+    },
+    {
+      "path": "docs/schematics/native-svg-R8.zip",
+      "bytes": 1048694,
+      "sha256": "f7fdbc564494d947a0ef74a3366751d4d6f9032e34d151d65706482eff77b46c"
+    },
+    {
+      "path": "docs/schematics/provenance.json",
+      "bytes": 2892,
+      "sha256": "514226d0e741cd99c9f7c0e4c079a18ac1dd6dd618f839a11de466b71efd8340"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/infrabot_pcb_4p3.eprj3",
+      "bytes": 3853,
+      "sha256": "d6cf11508eaa2e0dc8f97ba2f4651cfd0841e03bcf8d5d0df3474fac1dc17371"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/panel/Panel1.epan2",
+      "bytes": 528,
+      "sha256": "c94ac59de6a16377471f1ebd2c71af40072c272dd5d4dd28b7748e45930e61f2"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/pcb/PCB1.epcb2",
+      "bytes": 4771394,
+      "sha256": "de58bcca2811995e095fde4f8d046dbdb998e814218b10896f59dc8b429fd2f8"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/Core_BTB.esch2",
+      "bytes": 822449,
+      "sha256": "825dddce1f04e96082a72458fd17ded912af7952b6c3e9207f578a7d93eed83a"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/Ethernet.esch2",
+      "bytes": 1829610,
+      "sha256": "d4b8f9e53809b5ac184447c5d8c32fd05857ca0ba72623b57daf323fa5487ef2"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/LCD.esch2",
+      "bytes": 230036,
+      "sha256": "354476825ba66221ec14cd738b8a1b8c48e89d74c5bd8055e23ba71d1f33d877"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/Panel.esch2",
+      "bytes": 679929,
+      "sha256": "a1217a3019508ec0781295724de52933dbd0717f397867d58318ad0da765cc7a"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/Power.esch2",
+      "bytes": 1359547,
+      "sha256": "f8fd9cf71a0c6e1fcea161d86285eb73ac37d324320e8f16b96e93adca284a0d"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/Schematic1.ecfg",
+      "bytes": 755,
+      "sha256": "27c7f2b5f81863c7716291eea84112a89e180184e7643081a1fd36668d88a1bd"
+    },
+    {
+      "path": "hardware/infrabot_pcb_4p3/sch/Schematic1/UART_CAN_SWD.esch2",
+      "bytes": 1143471,
+      "sha256": "1c4d9f919d9029aaf9b381fcafdee189e15f46467c2dd66452def744842b51a6"
+    },
+    {
+      "path": "hardware/library/LED2_R6.efoo",
+      "bytes": 71380,
+      "sha256": "bf93f10888690d1953ade3ecad8e5f604a61485964713d5ef4ead47b664e1c1b"
+    },
+    {
+      "path": "hardware/library/LED2_R6.json",
+      "bytes": 566,
+      "sha256": "6a528d041d05708f5f54f9265f17e0b5e15693795c1f0d334c2ac2a726ad990c"
+    },
+    {
+      "path": "hardware/library/LED2_R6_formed.step",
+      "bytes": 163171,
+      "sha256": "46edee2aa790dfde90c98b1c481701c09683fccb0df2d0dbbe00e25ba9958271"
+    },
+    {
+      "path": "hardware/library/LED2_R6_model-binding.json",
+      "bytes": 361,
+      "sha256": "d16fa53c9011a74ae8fccc9e225d1d4787c72ed52f5d6c009ac79f7ad33fcea9"
+    },
+    {
+      "path": "hardware/library/README.md",
+      "bytes": 1392,
+      "sha256": "6ed4d2145ff05b732e534f6780409d8cd68558eb17fccae546b3f29f17544194"
+    },
+    {
+      "path": "manufacturing/R8/BOM.csv",
+      "bytes": 4637,
+      "sha256": "23c1f88304db65e837446a5e9752a19e2f2efacd4e210705e2ba34f167dcd144"
+    },
+    {
+      "path": "manufacturing/R8/CPL.csv",
+      "bytes": 17654,
+      "sha256": "7d95a46fb7ab4ef07a329376707a688b549493b6451f8753c4a028ac66faaf8e"
+    },
+    {
+      "path": "manufacturing/R8/Gerber.zip",
+      "bytes": 418834,
+      "sha256": "c96aff78beec4869417f1486f5555a6fd66d97f53c79f96db852d79fc642c725"
+    },
+    {
+      "path": "manufacturing/R8/README.md",
+      "bytes": 1889,
+      "sha256": "2affc20ed3696ac94c19d9eb85d6b604aed98a33158a63261cfcb05b9c30b000"
+    },
+    {
+      "path": "verification/README.md",
+      "bytes": 2416,
+      "sha256": "e64326d03f2fbd0d14f4caac3fcf1a441e7d5669cfa13232baa2a80fb72f5e98"
+    },
+    {
+      "path": "verification/evidence/canonical-connectivity.json",
+      "bytes": 542,
+      "sha256": "b28f70d301a2cd2ba3e3764adb81237a4a98d3df3c40725dea1ed0682e9b2f36"
+    },
+    {
+      "path": "verification/evidence/native-drc.json",
+      "bytes": 101,
+      "sha256": "6b6ae1b0065e5bb74b946a079d41007644258f45fb6942d69386c59c1b99247c"
+    },
+    {
+      "path": "verification/evidence/native-erc.json",
+      "bytes": 340,
+      "sha256": "32962de8cf76b608c294bf8f744394d3c6bdeb3b2335716fc881de6cc1971d53"
+    },
+    {
+      "path": "verification/evidence/native-netlist-parity.json",
+      "bytes": 304,
+      "sha256": "2de7515ab858749823ccc694b9f652cc22d4081d594bfaa4dd66616ce0cf6eb4"
+    },
+    {
+      "path": "verification/evidence/silkscreen-audit.json",
+      "bytes": 557,
+      "sha256": "c94b4f837abd1774eb94ad4e728ac2abf1585df21bed2679729d7900d3cd0281"
+    },
+    {
+      "path": "verification/evidence/sw1-silkscreen-audit.json",
+      "bytes": 7924,
+      "sha256": "361d68e19babb115266b319558a355d413b74a19f818e2b6b4df6e6948da221a"
+    },
+    {
+      "path": "verification/expected-netlist.json",
+      "bytes": 17274,
+      "sha256": "e7a7ce05540f0b01a8c0250aa32857406b2e2ed647c78a590c1c72c5906061eb"
+    },
+    {
+      "path": "verification/public-export.json",
+      "bytes": 1099,
+      "sha256": "50cc6259805997fdb23b6039bbe466b984c10dc6d742c16f18072f8d14cd8279"
+    },
+    {
+      "path": "verification/schematic-layout-review.json",
+      "bytes": 2510,
+      "sha256": "2045b99ab88154757fba3a38b8cca48201725f7b93eb110fc02d9fa9f31ff2bb"
+    },
+    {
+      "path": "verification/schematic-text-review.json",
+      "bytes": 4657,
+      "sha256": "7ea382b3b6f578ad823252214a94458748ba0a0ea1e15e75ef62cfe1d2d0e4c1"
+    }
+  ],
+  "documentation_updated_at": "2026-11-16",
+  "prepared_design_date": "2026-11-16"
+}
