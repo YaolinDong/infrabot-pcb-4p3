@@ -1,0 +1,75 @@
+{
+  "schema": "infrabot-schematic-publication-v2",
+  "design_revision": "R8",
+  "document_state": "DRAFT",
+  "date": "2026-11-16",
+  "author": "YaolinDong",
+  "page_count": 6,
+  "format": "A3 landscape, ordinary engineering title block, no cover",
+  "bookmarks": 6,
+  "native_export": "EasyEDA Pro 4.1.71 SCH_ManufactureData.getSvgFile",
+  "rendering": "Rsvg/Cairo with embedded fonts and reviewed symbol-text offsets; small engineering title block added by the PDF builder",
+  "source_layout": "Functional blocks and local wires arranged in editable native schematics; assigned pin networks unchanged",
+  "schematic_source_sha256": {
+    "hardware/infrabot_pcb_4p3/sch/Schematic1/Core_BTB.esch2": "825dddce1f04e96082a72458fd17ded912af7952b6c3e9207f578a7d93eed83a",
+    "hardware/infrabot_pcb_4p3/sch/Schematic1/Ethernet.esch2": "d4b8f9e53809b5ac184447c5d8c32fd05857ca0ba72623b57daf323fa5487ef2",
+    "hardware/infrabot_pcb_4p3/sch/Schematic1/LCD.esch2": "354476825ba66221ec14cd738b8a1b8c48e89d74c5bd8055e23ba71d1f33d877",
+    "hardware/infrabot_pcb_4p3/sch/Schematic1/Panel.esch2": "a1217a3019508ec0781295724de52933dbd0717f397867d58318ad0da765cc7a",
+    "hardware/infrabot_pcb_4p3/sch/Schematic1/Power.esch2": "f8fd9cf71a0c6e1fcea161d86285eb73ac37d324320e8f16b96e93adca284a0d",
+    "hardware/infrabot_pcb_4p3/sch/Schematic1/UART_CAN_SWD.esch2": "1c4d9f919d9029aaf9b381fcafdee189e15f46467c2dd66452def744842b51a6"
+  },
+  "native_svg_zip_sha256": "f7fdbc564494d947a0ef74a3366751d4d6f9032e34d151d65706482eff77b46c",
+  "pdf_sha256": "c863e4f8fe7645800f13e45dfe3a173e2936aa0d08e6a440bf3d5badb41f51ca",
+  "all_pages_vector": true,
+  "all_native_labels_present": true,
+  "sheet_checks": [
+    {
+      "sheet": "Core_BTB",
+      "page": 1,
+      "label_count": 382,
+      "missing_labels": 0,
+      "raster_images": 0
+    },
+    {
+      "sheet": "Power",
+      "page": 2,
+      "label_count": 115,
+      "missing_labels": 0,
+      "raster_images": 0
+    },
+    {
+      "sheet": "Ethernet",
+      "page": 3,
+      "label_count": 249,
+      "missing_labels": 0,
+      "raster_images": 0
+    },
+    {
+      "sheet": "UART_CAN_SWD",
+      "page": 4,
+      "label_count": 186,
+      "missing_labels": 0,
+      "raster_images": 0
+    },
+    {
+      "sheet": "LCD",
+      "page": 5,
+      "label_count": 5,
+      "missing_labels": 0,
+      "raster_images": 0
+    },
+    {
+      "sheet": "Panel",
+      "page": 6,
+      "label_count": 90,
+      "missing_labels": 0,
+      "raster_images": 0
+    }
+  ],
+  "electrical_review": "verification/schematic-layout-review.json",
+  "text_clearance_review": "verification/schematic-text-review.json",
+  "text_correction_config_sha256": {
+    "tools/schematic_text_adjustments.json": "8534af23ff4ea90a0ca00cbf5a0d99c145d67aa23bc73103f1eff81ca53c9a09",
+    "tools/schematic_pdf_text_offsets.json": "dd06062cf0966d582a8260cf8e12ebc6b41dd2f7d8e320a3bd00839a399eb30b"
+  }
+}
