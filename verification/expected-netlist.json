@@ -1,0 +1,1193 @@
+{
+ "Core_BTB": [
+  {
+   "ref": "CN1",
+   "lcsc": "C2914927",
+   "value": "3710M080046",
+   "pins": {
+    "1": "ETH_TXEN",
+    "3": "ETH_TXD0",
+    "5": "ETH_TXD1",
+    "7": "ETH_CRS_DV",
+    "2": "ETH_RXD0",
+    "4": "ETH_RXD1",
+    "6": "ETH_REFCLK",
+    "8": "ETH_MDC",
+    "10": "ETH_MDIO",
+    "9": "GND",
+    "39": "GND",
+    "40": "GND",
+    "79": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "CN2",
+   "lcsc": "C2914927",
+   "value": "3710M080046",
+   "pins": {
+    "1": "CAN_RX",
+    "19": "CAN_TX",
+    "6": "SWCLK",
+    "7": "SWDIO",
+    "10": "NRST",
+    "54": "BOOT0",
+    "58": "UART1_TX",
+    "60": "UART1_RX",
+    "36": "STATUS_R_N",
+    "34": "STATUS_G_N",
+    "32": "STATUS_B_N",
+    "53": "KEY1_PA0",
+    "55": "KEY2_PC13",
+    "3": "GND",
+    "11": "GND",
+    "17": "GND",
+    "23": "GND",
+    "71": "GND",
+    "73": "GND",
+    "4": "GND",
+    "12": "GND",
+    "24": "GND",
+    "50": "GND",
+    "72": "GND",
+    "75": "+5V",
+    "77": "+5V",
+    "79": "+5V",
+    "76": "+5V",
+    "78": "+5V",
+    "80": "+5V"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R1",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "BOOT0",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "SW2",
+   "lcsc": "C18186464",
+   "value": "KH-12X12X17H-TJ",
+   "pins": {
+    "1": "NRST",
+    "2": "NRST",
+    "3": "GND",
+    "4": "GND"
+   },
+   "pcb": true
+  }
+ ],
+ "Power": [
+  {
+   "ref": "J1",
+   "lcsc": "C381116",
+   "value": "DC 6-12V",
+   "pins": {
+    "1": "VIN_RAW",
+    "2": "GND",
+    "3": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "D1",
+   "lcsc": "C8678",
+   "value": "SS34",
+   "pins": {
+    "2": "VIN_RAW",
+    "1": "VIN"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "D2",
+   "lcsc": "C143119",
+   "value": "SMAJ15A",
+   "pins": {
+    "1": "VIN",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C1",
+   "lcsc": "C72478",
+   "value": "100uF/35V",
+   "pins": {
+    "1": "VIN",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C2",
+   "lcsc": "C15850",
+   "value": "10uF/25V",
+   "pins": {
+    "1": "VIN",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C3",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "VIN",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U1",
+   "lcsc": "C311983",
+   "value": "TPS54302",
+   "pins": {
+    "1": "GND",
+    "2": "BUCK_SW",
+    "3": "VIN",
+    "4": "BUCK_FB",
+    "6": "BUCK_BOOT"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C4",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "BUCK_BOOT",
+    "2": "BUCK_SW"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "L1",
+   "lcsc": "C79272",
+   "value": "10uH",
+   "pins": {
+    "1": "BUCK_SW",
+    "2": "5V_BUCK"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C5",
+   "lcsc": "C45783",
+   "value": "22uF/25V",
+   "pins": {
+    "1": "5V_BUCK",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C6",
+   "lcsc": "C45783",
+   "value": "22uF/25V",
+   "pins": {
+    "1": "5V_BUCK",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C7",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "5V_SYS",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R4",
+   "lcsc": "C14889",
+   "value": "107k",
+   "pins": {
+    "1": "5V_BUCK",
+    "2": "BUCK_FB"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R5",
+   "lcsc": "C22793",
+   "value": "13.7k",
+   "pins": {
+    "1": "BUCK_FB",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C8",
+   "lcsc": "C1683",
+   "value": "82pF",
+   "pins": {
+    "1": "5V_BUCK",
+    "2": "BUCK_FB"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "D5",
+   "lcsc": "C8678",
+   "value": "SS34",
+   "pins": {
+    "2": "5V_BUCK",
+    "1": "5V_SYS"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "D4",
+   "lcsc": "C8678",
+   "value": "SS34",
+   "pins": {
+    "2": "VBUS_USB",
+    "1": "5V_SYS"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "Q1",
+   "lcsc": "C15127",
+   "value": "AO3401A",
+   "pins": {
+    "2": "5V_SYS",
+    "3": "+5V",
+    "1": "Q1_G"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R2",
+   "lcsc": "C25803",
+   "value": "100k",
+   "pins": {
+    "1": "5V_SYS",
+    "2": "Q1_G"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R3",
+   "lcsc": "C21190",
+   "value": "1k",
+   "pins": {
+    "1": "Q1_G",
+    "2": "PWR_SW"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "SW1",
+   "lcsc": "C52766776",
+   "value": "TB-8585S-AWZ13526",
+   "pins": {
+    "1": "GND",
+    "2": "PWR_SW",
+    "4": "GND",
+    "5": "PWR_SW"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C26",
+   "lcsc": "C45783",
+   "value": "22uF/25V",
+   "pins": {
+    "1": "+5V",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U2",
+   "lcsc": "C15578",
+   "value": "TLV1117LV33DCYR",
+   "pins": {
+    "1": "GND",
+    "2": "+3V3",
+    "3": "+5V",
+    "4": "+3V3"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C9",
+   "lcsc": "C19702",
+   "value": "10uF",
+   "pins": {
+    "1": "+5V",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C10",
+   "lcsc": "C45783",
+   "value": "22uF/25V",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C11",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R6",
+   "lcsc": "C21190",
+   "value": "1k",
+   "pins": {
+    "1": "+5V",
+    "2": "LED_PWR"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "LED1",
+   "lcsc": "C99772",
+   "value": "204-10SURD/S530-A3",
+   "pins": {
+    "1": "LED_PWR",
+    "2": "GND"
+   },
+   "pcb": true
+  }
+ ],
+ "Ethernet": [
+  {
+   "ref": "U3",
+   "lcsc": "C45223",
+   "value": "LAN8720A",
+   "pins": {
+    "1": "ETH_VDDA",
+    "2": "ETH_LED_SPD",
+    "3": "ETH_LED_LINK",
+    "5": "ETH_PHY_REFCLK",
+    "6": "ETH_VDDCR",
+    "7": "ETH_RXD1",
+    "8": "ETH_RXD0",
+    "9": "+3V3",
+    "11": "ETH_CRS_DV",
+    "12": "ETH_MDIO",
+    "13": "ETH_MDC",
+    "15": "NRST",
+    "16": "ETH_TXEN",
+    "17": "ETH_TXD0",
+    "18": "ETH_TXD1",
+    "19": "ETH_VDDA",
+    "20": "ETH_TXN",
+    "21": "ETH_TXP",
+    "22": "ETH_RXN",
+    "23": "ETH_RXP",
+    "24": "ETH_RBIAS",
+    "25": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "Y1",
+   "lcsc": "C5203552",
+   "value": "50MHz",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND",
+    "3": "ETH_OSC_50M",
+    "4": "+3V3"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C12",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C13",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U6",
+   "lcsc": "C113325",
+   "value": "CDCLVC1102PWR",
+   "pins": {
+    "1": "ETH_OSC_50M",
+    "2": "+3V3",
+    "3": "ETH_CLK_MAC_SRC",
+    "4": "GND",
+    "6": "+3V3",
+    "8": "ETH_CLK_PHY_SRC"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R23",
+   "lcsc": "C23140",
+   "value": "33R",
+   "pins": {
+    "1": "ETH_CLK_MAC_SRC",
+    "2": "ETH_REFCLK"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R24",
+   "lcsc": "C23140",
+   "value": "33R",
+   "pins": {
+    "1": "ETH_CLK_PHY_SRC",
+    "2": "ETH_PHY_REFCLK"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U7",
+   "lcsc": "C1852114",
+   "value": "TLV803EA29DBZR",
+   "pins": {
+    "1": "GND",
+    "2": "NRST",
+    "3": "+3V3"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R25",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "+3V3",
+    "2": "NRST"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C27",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R7",
+   "lcsc": "C22864",
+   "value": "12.1k",
+   "pins": {
+    "1": "ETH_RBIAS",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R8",
+   "lcsc": "C23185",
+   "value": "49.9R",
+   "pins": {
+    "1": "ETH_TXP",
+    "2": "ETH_VDDA"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R9",
+   "lcsc": "C23185",
+   "value": "49.9R",
+   "pins": {
+    "1": "ETH_TXN",
+    "2": "ETH_VDDA"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R10",
+   "lcsc": "C23185",
+   "value": "49.9R",
+   "pins": {
+    "1": "ETH_RXP",
+    "2": "ETH_VDDA"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R11",
+   "lcsc": "C23185",
+   "value": "49.9R",
+   "pins": {
+    "1": "ETH_RXN",
+    "2": "ETH_VDDA"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R12",
+   "lcsc": "C22843",
+   "value": "1.5k",
+   "pins": {
+    "1": "ETH_MDIO",
+    "2": "+3V3"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "FB1",
+   "lcsc": "C1002",
+   "value": "600R",
+   "pins": {
+    "1": "+3V3",
+    "2": "ETH_VDDA"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C14",
+   "lcsc": "C19702",
+   "value": "10uF",
+   "pins": {
+    "1": "ETH_VDDA",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C15",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "ETH_VDDA",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C16",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "ETH_VDDA",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C17",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C18",
+   "lcsc": "C15849",
+   "value": "1uF",
+   "pins": {
+    "1": "ETH_VDDCR",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C19",
+   "lcsc": "C27694",
+   "value": "470pF",
+   "pins": {
+    "1": "ETH_VDDCR",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C20",
+   "lcsc": "C21122",
+   "value": "22nF",
+   "pins": {
+    "1": "ETH_VDDA",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R13",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "ETH_LED_SPD",
+    "2": "+3V3"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R14",
+   "lcsc": "C23162",
+   "value": "4.7k",
+   "pins": {
+    "1": "ETH_LED_LINK",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R15",
+   "lcsc": "C22966",
+   "value": "270R",
+   "pins": {
+    "1": "+3V3",
+    "2": "ETH_LEDG_A"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R16",
+   "lcsc": "C22966",
+   "value": "270R",
+   "pins": {
+    "1": "ETH_LEDY_K",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "J2",
+   "lcsc": "C12074",
+   "value": "HR911105A",
+   "pins": {
+    "1": "ETH_TXP",
+    "2": "ETH_TXN",
+    "3": "ETH_RXP",
+    "6": "ETH_RXN",
+    "4": "ETH_VDDA",
+    "5": "ETH_VDDA",
+    "8": "GND",
+    "9": "ETH_LEDG_A",
+    "10": "ETH_LED_SPD",
+    "12": "ETH_LED_LINK",
+    "11": "ETH_LEDY_K",
+    "SH1": "ETH_SHIELD",
+    "SH2": "ETH_SHIELD"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "FB2",
+   "lcsc": "C1002",
+   "value": "600R",
+   "pins": {
+    "1": "ETH_SHIELD",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C31",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C32",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C35",
+   "lcsc": "C57112",
+   "value": "10nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C36",
+   "lcsc": "C57112",
+   "value": "10nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C37",
+   "lcsc": "C57112",
+   "value": "10nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  }
+ ],
+ "UART_CAN_SWD": [
+  {
+   "ref": "J3",
+   "lcsc": "C165948",
+   "value": "USB-C",
+   "pins": {
+    "A1B12": "GND",
+    "B1A12": "GND",
+    "A4B9": "VBUS_USB",
+    "B4A9": "VBUS_USB",
+    "A5": "USB_CC1",
+    "B5": "USB_CC2",
+    "A6": "USB_DP",
+    "B6": "USB_DP",
+    "A7": "USB_DM",
+    "B7": "USB_DM",
+    "1": "GND",
+    "2": "GND",
+    "3": "GND",
+    "4": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R17",
+   "lcsc": "C23186",
+   "value": "5.1k",
+   "pins": {
+    "1": "USB_CC1",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R18",
+   "lcsc": "C23186",
+   "value": "5.1k",
+   "pins": {
+    "1": "USB_CC2",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U4",
+   "lcsc": "C84681",
+   "value": "CH340C",
+   "pins": {
+    "1": "GND",
+    "2": "CH_TXD",
+    "3": "CH_RXD",
+    "4": "CH_V3",
+    "5": "USB_DP",
+    "6": "USB_DM",
+    "16": "VBUS_USB"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C21",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "CH_V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C22",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "VBUS_USB",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C23",
+   "lcsc": "C19702",
+   "value": "10uF",
+   "pins": {
+    "1": "VBUS_USB",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R19",
+   "lcsc": "C21190",
+   "value": "1k",
+   "pins": {
+    "1": "CH_TXD",
+    "2": "UART1_RX"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R20",
+   "lcsc": "C21190",
+   "value": "1k",
+   "pins": {
+    "1": "UART1_TX",
+    "2": "CH_RXD"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U5",
+   "lcsc": "C5382542",
+   "value": "SIT1042AQT/3",
+   "pins": {
+    "1": "CAN_TX",
+    "2": "GND",
+    "3": "+5V",
+    "4": "CAN_RX",
+    "5": "+3V3",
+    "6": "CANL",
+    "7": "CANH",
+    "8": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C24",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+5V",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C25",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "D3",
+   "lcsc": "C284078",
+   "value": "PESD2CAN",
+   "pins": {
+    "1": "CANH",
+    "2": "CANL",
+    "3": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R21",
+   "lcsc": "C22787",
+   "value": "120R",
+   "pins": {
+    "1": "CANH",
+    "2": "CAN_TERM"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "J4",
+   "lcsc": "C36717",
+   "value": "CAN 120R",
+   "pins": {
+    "1": "CAN_TERM",
+    "2": "CANL"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "J5",
+   "lcsc": "C474893",
+   "value": "CAN",
+   "pins": {
+    "1": "CANH",
+    "2": "CANL",
+    "3": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "J6",
+   "lcsc": "C138801",
+   "value": "2.54-1*5P反弯针",
+   "pins": {
+    "1": "+3V3",
+    "2": "SWDIO",
+    "3": "GND",
+    "4": "SWCLK",
+    "5": "NRST"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C33",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+5V",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C34",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+5V",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C38",
+   "lcsc": "C57112",
+   "value": "10nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C39",
+   "lcsc": "C57112",
+   "value": "10nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  }
+ ],
+ "LCD": [],
+ "Panel": [
+  {
+   "ref": "SW3",
+   "lcsc": "C18186464",
+   "value": "KH-12X12X17H-TJ",
+   "pins": {
+    "1": "+3V3",
+    "2": "+3V3",
+    "3": "KEY1_SW",
+    "4": "KEY1_SW"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R26",
+   "lcsc": "C23138",
+   "value": "330R",
+   "pins": {
+    "1": "KEY1_SW",
+    "2": "KEY1_PA0"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R27",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "KEY1_PA0",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C28",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "KEY1_PA0",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "SW4",
+   "lcsc": "C18186464",
+   "value": "KH-12X12X17H-TJ",
+   "pins": {
+    "1": "+3V3",
+    "2": "+3V3",
+    "3": "KEY2_SW",
+    "4": "KEY2_SW"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R28",
+   "lcsc": "C23138",
+   "value": "330R",
+   "pins": {
+    "1": "KEY2_SW",
+    "2": "KEY2_PC13"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R29",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "KEY2_PC13",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C29",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "KEY2_PC13",
+    "2": "GND"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "U8",
+   "lcsc": "C131955",
+   "value": "SN74LVC3G07DCUR",
+   "pins": {
+    "1": "STATUS_R_N",
+    "2": "LED_B_DRV",
+    "3": "STATUS_G_N",
+    "4": "GND",
+    "5": "LED_G_DRV",
+    "6": "STATUS_B_N",
+    "7": "LED_R_DRV",
+    "8": "+3V3"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "LED2",
+   "lcsc": "C417349",
+   "value": "MHLA5319URGBDWT",
+   "pins": {
+    "1": "LED_R_K",
+    "2": "+5V",
+    "3": "LED_G_K",
+    "4": "LED_B_K"
+   },
+   "pcb": true,
+   "footprint": "7d8e9becdc1d76fc",
+   "deviceOverride": "ed8274dfad3b3899"
+  },
+  {
+   "ref": "R30",
+   "lcsc": "C21190",
+   "value": "1k",
+   "pins": {
+    "1": "LED_R_K",
+    "2": "LED_R_DRV"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R31",
+   "lcsc": "C4190",
+   "value": "2.2k",
+   "pins": {
+    "1": "LED_G_K",
+    "2": "LED_G_DRV"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R32",
+   "lcsc": "C23228",
+   "value": "680R",
+   "pins": {
+    "1": "LED_B_K",
+    "2": "LED_B_DRV"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R33",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "+3V3",
+    "2": "STATUS_R_N"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R34",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "+3V3",
+    "2": "STATUS_G_N"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "R35",
+   "lcsc": "C25804",
+   "value": "10k",
+   "pins": {
+    "1": "+3V3",
+    "2": "STATUS_B_N"
+   },
+   "pcb": true
+  },
+  {
+   "ref": "C30",
+   "lcsc": "C14663",
+   "value": "100nF",
+   "pins": {
+    "1": "+3V3",
+    "2": "GND"
+   },
+   "pcb": true
+  }
+ ]
+}

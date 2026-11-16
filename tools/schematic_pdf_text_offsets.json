@@ -1,0 +1,2150 @@
+{
+  "schema": "infrabot-svg-text-offsets-v1",
+  "reason": "Presentation-only offsets: pin-number baselines are lifted clear of their pin strokes under Rsvg; four RJ45 signal names and its internal Green LED note are moved clear of symbol artwork; USB no-connect pin numbers are separated from X marks. Pin identities and all circuit geometry are unchanged.",
+  "sheets": {
+    "Core_BTB": [
+      {
+        "parent_id": "741664c33c743853-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e9",
+        "text_index": 1,
+        "text": "80",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e17",
+        "text_index": 1,
+        "text": "78",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e21",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e25",
+        "text_index": 1,
+        "text": "76",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e29",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e33",
+        "text_index": 1,
+        "text": "74",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e37",
+        "text_index": 1,
+        "text": "9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e41",
+        "text_index": 1,
+        "text": "72",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e45",
+        "text_index": 1,
+        "text": "11",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e49",
+        "text_index": 1,
+        "text": "70",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e53",
+        "text_index": 1,
+        "text": "13",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e57",
+        "text_index": 1,
+        "text": "68",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e61",
+        "text_index": 1,
+        "text": "15",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e65",
+        "text_index": 1,
+        "text": "66",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e69",
+        "text_index": 1,
+        "text": "17",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e73",
+        "text_index": 1,
+        "text": "64",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e77",
+        "text_index": 1,
+        "text": "19",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e81",
+        "text_index": 1,
+        "text": "62",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e85",
+        "text_index": 1,
+        "text": "21",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e89",
+        "text_index": 1,
+        "text": "60",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e93",
+        "text_index": 1,
+        "text": "23",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e97",
+        "text_index": 1,
+        "text": "58",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e101",
+        "text_index": 1,
+        "text": "25",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e105",
+        "text_index": 1,
+        "text": "56",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e109",
+        "text_index": 1,
+        "text": "27",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e113",
+        "text_index": 1,
+        "text": "54",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e117",
+        "text_index": 1,
+        "text": "29",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e121",
+        "text_index": 1,
+        "text": "52",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e125",
+        "text_index": 1,
+        "text": "31",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e129",
+        "text_index": 1,
+        "text": "50",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e133",
+        "text_index": 1,
+        "text": "33",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e137",
+        "text_index": 1,
+        "text": "48",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e141",
+        "text_index": 1,
+        "text": "35",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e145",
+        "text_index": 1,
+        "text": "46",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e149",
+        "text_index": 1,
+        "text": "37",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e153",
+        "text_index": 1,
+        "text": "44",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e157",
+        "text_index": 1,
+        "text": "39",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e161",
+        "text_index": 1,
+        "text": "42",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e165",
+        "text_index": 1,
+        "text": "41",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e169",
+        "text_index": 1,
+        "text": "40",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e173",
+        "text_index": 1,
+        "text": "43",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e177",
+        "text_index": 1,
+        "text": "38",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e181",
+        "text_index": 1,
+        "text": "45",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e185",
+        "text_index": 1,
+        "text": "36",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e189",
+        "text_index": 1,
+        "text": "47",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e193",
+        "text_index": 1,
+        "text": "34",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e197",
+        "text_index": 1,
+        "text": "49",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e201",
+        "text_index": 1,
+        "text": "32",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e205",
+        "text_index": 1,
+        "text": "51",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e209",
+        "text_index": 1,
+        "text": "30",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e213",
+        "text_index": 1,
+        "text": "53",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e217",
+        "text_index": 1,
+        "text": "28",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e221",
+        "text_index": 1,
+        "text": "55",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e225",
+        "text_index": 1,
+        "text": "26",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e229",
+        "text_index": 1,
+        "text": "57",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e233",
+        "text_index": 1,
+        "text": "24",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e237",
+        "text_index": 1,
+        "text": "59",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e241",
+        "text_index": 1,
+        "text": "22",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e245",
+        "text_index": 1,
+        "text": "61",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e249",
+        "text_index": 1,
+        "text": "20",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e253",
+        "text_index": 1,
+        "text": "63",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e257",
+        "text_index": 1,
+        "text": "18",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e261",
+        "text_index": 1,
+        "text": "65",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e265",
+        "text_index": 1,
+        "text": "16",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e269",
+        "text_index": 1,
+        "text": "67",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e273",
+        "text_index": 1,
+        "text": "14",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e277",
+        "text_index": 1,
+        "text": "69",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e281",
+        "text_index": 1,
+        "text": "12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e285",
+        "text_index": 1,
+        "text": "71",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e289",
+        "text_index": 1,
+        "text": "10",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e293",
+        "text_index": 1,
+        "text": "73",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e297",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e301",
+        "text_index": 1,
+        "text": "75",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e305",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e309",
+        "text_index": 1,
+        "text": "77",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e313",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e317",
+        "text_index": 1,
+        "text": "79",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "741664c33c743853-e321",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e9",
+        "text_index": 1,
+        "text": "80",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e17",
+        "text_index": 1,
+        "text": "78",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e21",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e25",
+        "text_index": 1,
+        "text": "76",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e29",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e33",
+        "text_index": 1,
+        "text": "74",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e37",
+        "text_index": 1,
+        "text": "9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e41",
+        "text_index": 1,
+        "text": "72",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e45",
+        "text_index": 1,
+        "text": "11",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e49",
+        "text_index": 1,
+        "text": "70",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e53",
+        "text_index": 1,
+        "text": "13",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e57",
+        "text_index": 1,
+        "text": "68",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e61",
+        "text_index": 1,
+        "text": "15",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e65",
+        "text_index": 1,
+        "text": "66",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e69",
+        "text_index": 1,
+        "text": "17",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e73",
+        "text_index": 1,
+        "text": "64",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e77",
+        "text_index": 1,
+        "text": "19",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e81",
+        "text_index": 1,
+        "text": "62",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e85",
+        "text_index": 1,
+        "text": "21",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e89",
+        "text_index": 1,
+        "text": "60",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e93",
+        "text_index": 1,
+        "text": "23",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e97",
+        "text_index": 1,
+        "text": "58",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e101",
+        "text_index": 1,
+        "text": "25",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e105",
+        "text_index": 1,
+        "text": "56",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e109",
+        "text_index": 1,
+        "text": "27",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e113",
+        "text_index": 1,
+        "text": "54",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e117",
+        "text_index": 1,
+        "text": "29",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e121",
+        "text_index": 1,
+        "text": "52",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e125",
+        "text_index": 1,
+        "text": "31",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e129",
+        "text_index": 1,
+        "text": "50",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e133",
+        "text_index": 1,
+        "text": "33",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e137",
+        "text_index": 1,
+        "text": "48",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e141",
+        "text_index": 1,
+        "text": "35",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e145",
+        "text_index": 1,
+        "text": "46",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e149",
+        "text_index": 1,
+        "text": "37",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e153",
+        "text_index": 1,
+        "text": "44",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e157",
+        "text_index": 1,
+        "text": "39",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e161",
+        "text_index": 1,
+        "text": "42",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e165",
+        "text_index": 1,
+        "text": "41",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e169",
+        "text_index": 1,
+        "text": "40",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e173",
+        "text_index": 1,
+        "text": "43",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e177",
+        "text_index": 1,
+        "text": "38",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e181",
+        "text_index": 1,
+        "text": "45",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e185",
+        "text_index": 1,
+        "text": "36",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e189",
+        "text_index": 1,
+        "text": "47",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e193",
+        "text_index": 1,
+        "text": "34",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e197",
+        "text_index": 1,
+        "text": "49",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e201",
+        "text_index": 1,
+        "text": "32",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e205",
+        "text_index": 1,
+        "text": "51",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e209",
+        "text_index": 1,
+        "text": "30",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e213",
+        "text_index": 1,
+        "text": "53",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e217",
+        "text_index": 1,
+        "text": "28",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e221",
+        "text_index": 1,
+        "text": "55",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e225",
+        "text_index": 1,
+        "text": "26",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e229",
+        "text_index": 1,
+        "text": "57",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e233",
+        "text_index": 1,
+        "text": "24",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e237",
+        "text_index": 1,
+        "text": "59",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e241",
+        "text_index": 1,
+        "text": "22",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e245",
+        "text_index": 1,
+        "text": "61",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e249",
+        "text_index": 1,
+        "text": "20",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e253",
+        "text_index": 1,
+        "text": "63",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e257",
+        "text_index": 1,
+        "text": "18",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e261",
+        "text_index": 1,
+        "text": "65",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e265",
+        "text_index": 1,
+        "text": "16",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e269",
+        "text_index": 1,
+        "text": "67",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e273",
+        "text_index": 1,
+        "text": "14",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e277",
+        "text_index": 1,
+        "text": "69",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e281",
+        "text_index": 1,
+        "text": "12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e285",
+        "text_index": 1,
+        "text": "71",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e289",
+        "text_index": 1,
+        "text": "10",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e293",
+        "text_index": 1,
+        "text": "73",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e297",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e301",
+        "text_index": 1,
+        "text": "75",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e305",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e309",
+        "text_index": 1,
+        "text": "77",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e313",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e317",
+        "text_index": 1,
+        "text": "79",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "057aa88ee983febc-e321",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "64438faef1b56bf6-e3",
+        "text_index": 0,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "64438faef1b56bf6-e7",
+        "text_index": 0,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "64438faef1b56bf6-e11",
+        "text_index": 0,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "64438faef1b56bf6-e15",
+        "text_index": 0,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      }
+    ],
+    "Power": [
+      {
+        "parent_id": "e4a82351999639a9-e11",
+        "text_index": 0,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "e4a82351999639a9-e15",
+        "text_index": 0,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "e4a82351999639a9-e19",
+        "text_index": 0,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "9136fc3d01ee3dc8-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "9136fc3d01ee3dc8-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "9136fc3d01ee3dc8-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "9136fc3d01ee3dc8-e17",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "9136fc3d01ee3dc8-e21",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "9136fc3d01ee3dc8-e25",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "638ada4edd312686-e8",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "638ada4edd312686-e12",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "638ada4edd312686-e16",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "05472ca71d8972c3-e4",
+        "text_index": 0,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "05472ca71d8972c3-e8",
+        "text_index": 0,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "05472ca71d8972c3-e12",
+        "text_index": 0,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "05472ca71d8972c3-e16",
+        "text_index": 0,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "05472ca71d8972c3-e20",
+        "text_index": 0,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "05472ca71d8972c3-e24",
+        "text_index": 0,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      }
+    ],
+    "Ethernet": [
+      {
+        "parent_id": "8e8328440c98d28b-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e17",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e21",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e25",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e29",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e33",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e37",
+        "text_index": 1,
+        "text": "9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e41",
+        "text_index": 1,
+        "text": "10",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e45",
+        "text_index": 1,
+        "text": "11",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e49",
+        "text_index": 1,
+        "text": "12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e53",
+        "text_index": 1,
+        "text": "13",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e57",
+        "text_index": 1,
+        "text": "14",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e61",
+        "text_index": 1,
+        "text": "15",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e65",
+        "text_index": 1,
+        "text": "16",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e69",
+        "text_index": 1,
+        "text": "17",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e73",
+        "text_index": 1,
+        "text": "18",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e77",
+        "text_index": 1,
+        "text": "19",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e81",
+        "text_index": 1,
+        "text": "20",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e85",
+        "text_index": 1,
+        "text": "21",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e89",
+        "text_index": 1,
+        "text": "22",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e93",
+        "text_index": 1,
+        "text": "23",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e97",
+        "text_index": 1,
+        "text": "24",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "8e8328440c98d28b-e101",
+        "text_index": 1,
+        "text": "25",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e183",
+        "text_index": 0,
+        "text": "RD-",
+        "dx": 0,
+        "dy": -5
+      },
+      {
+        "parent_id": "18b5964965a10087-e183",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e187",
+        "text_index": 0,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e191",
+        "text_index": 0,
+        "text": "RD+",
+        "dx": 0,
+        "dy": -5
+      },
+      {
+        "parent_id": "18b5964965a10087-e191",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e195",
+        "text_index": 0,
+        "text": "TD+",
+        "dx": 0,
+        "dy": -5
+      },
+      {
+        "parent_id": "18b5964965a10087-e195",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e199",
+        "text_index": 0,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e203",
+        "text_index": 0,
+        "text": "TD-",
+        "dx": 0,
+        "dy": -5
+      },
+      {
+        "parent_id": "18b5964965a10087-e203",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e207",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e211",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e215",
+        "text_index": 0,
+        "text": "9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e219",
+        "text_index": 0,
+        "text": "10",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e223",
+        "text_index": 0,
+        "text": "11",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e227",
+        "text_index": 0,
+        "text": "12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e231",
+        "text_index": 0,
+        "text": "SH1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "18b5964965a10087-e235",
+        "text_index": 0,
+        "text": "SH2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e6",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e10",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e14",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e18",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e22",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e26",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e30",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7b5b8cd8d2a0eec0-e34",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "29a906d8927d6bd1-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "29a906d8927d6bd1-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "29a906d8927d6bd1-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "29a906d8927d6bd1-e17",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "02973653856a0afb-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "02973653856a0afb-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "02973653856a0afb-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "id": "18b5964965a10087-e144",
+        "text": "Green LED",
+        "dx": 30,
+        "dy": 0
+      }
+    ],
+    "UART_CAN_SWD": [
+      {
+        "parent_id": "14f850555a73f9ba-e4",
+        "text_index": 1,
+        "text": "A1B12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e8",
+        "text_index": 1,
+        "text": "A4B9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e12",
+        "text_index": 1,
+        "text": "B8",
+        "dx": 22,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e16",
+        "text_index": 1,
+        "text": "A5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e20",
+        "text_index": 1,
+        "text": "B7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e24",
+        "text_index": 1,
+        "text": "A6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e28",
+        "text_index": 1,
+        "text": "A7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e32",
+        "text_index": 1,
+        "text": "B6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e36",
+        "text_index": 1,
+        "text": "A8",
+        "dx": 22,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e40",
+        "text_index": 1,
+        "text": "B5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e44",
+        "text_index": 1,
+        "text": "B4A9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e48",
+        "text_index": 1,
+        "text": "B1A12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e52",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e56",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e60",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "14f850555a73f9ba-e64",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e17",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e21",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e25",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e29",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e33",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e37",
+        "text_index": 1,
+        "text": "9",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e41",
+        "text_index": 1,
+        "text": "10",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e45",
+        "text_index": 1,
+        "text": "11",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e49",
+        "text_index": 1,
+        "text": "12",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e53",
+        "text_index": 1,
+        "text": "13",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e57",
+        "text_index": 1,
+        "text": "14",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e61",
+        "text_index": 1,
+        "text": "15",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "89504afe467a6bdc-e65",
+        "text_index": 1,
+        "text": "16",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e4",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e8",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e12",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e16",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e20",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e24",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e28",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "af6edd7dfbb5d3b3-e32",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "0ca3629990752a88-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "0ca3629990752a88-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "0ca3629990752a88-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7417802601badaaf-e5",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7417802601badaaf-e9",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7417802601badaaf-e13",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7417802601badaaf-e17",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "7417802601badaaf-e21",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      }
+    ],
+    "Panel": [
+      {
+        "parent_id": "04190d030e81e9e7-e6",
+        "text_index": 1,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e10",
+        "text_index": 1,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e14",
+        "text_index": 1,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e18",
+        "text_index": 1,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e22",
+        "text_index": 1,
+        "text": "5",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e26",
+        "text_index": 1,
+        "text": "6",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e30",
+        "text_index": 1,
+        "text": "7",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "04190d030e81e9e7-e34",
+        "text_index": 1,
+        "text": "8",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "31549bd16a8e29df-e3",
+        "text_index": 0,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "31549bd16a8e29df-e7",
+        "text_index": 0,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "31549bd16a8e29df-e11",
+        "text_index": 0,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "31549bd16a8e29df-e15",
+        "text_index": 0,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "c73151fe1b812b09-e3",
+        "text_index": 0,
+        "text": "4",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "c73151fe1b812b09-e7",
+        "text_index": 0,
+        "text": "3",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "c73151fe1b812b09-e11",
+        "text_index": 0,
+        "text": "2",
+        "dx": 0,
+        "dy": -3
+      },
+      {
+        "parent_id": "c73151fe1b812b09-e15",
+        "text_index": 0,
+        "text": "1",
+        "dx": 0,
+        "dy": -3
+      }
+    ]
+  }
+}
