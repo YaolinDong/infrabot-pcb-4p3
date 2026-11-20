@@ -91,10 +91,18 @@ tests/         完整性与装配回归测试
 
 ## 许可
 
-- 作者拥有权利的硬件设计：**[CERN-OHL-P-2.0](LICENSE)**。
-- 脚本、测试和 CI：**[MIT](LICENSES/MIT.txt)**。
-- 作者编写的文档：**[CC-BY-4.0](LICENSES/CC-BY-4.0.txt)**。
+下表列出 YaolinDong 原创内容的适用许可。路径均相对于仓库根目录。
 
-这些许可允许遵守相应条件的商业使用。第三方原有权利和声明继续保留，详见[许可范围](docs/licensing.md)及[第三方来源](THIRD_PARTY.md)。
+| 内容 | 文件 | 许可 |
+|---|---|---|
+| 嘉立创 EDA 可编辑工程、原理图、PCB 和拼板 | `hardware/infrabot_pcb_4p3/` | [CERN-OHL-P-2.0](LICENSE) |
+| 自定义 LED2 封装、STEP 模型及模型关联参数 | `hardware/library/LED2_R6*` | [CERN-OHL-P-2.0](LICENSE) |
+| 原理图图纸及导出记录 | `docs/schematics/infrabot-pcb-4p3-R8-schematic.pdf`、`docs/schematics/native-svg-R8.zip`、`docs/schematics/provenance.json` | [CERN-OHL-P-2.0](LICENSE) |
+| 制板和装配文件 | `manufacturing/R8/Gerber.zip`、`manufacturing/R8/BOM.csv`、`manufacturing/R8/CPL.csv`、`manufacturing/R8/manifest.json` | [CERN-OHL-P-2.0](LICENSE) |
+| 预期引脚连接和设计核验记录 | `verification/*.json`、`verification/evidence/*.json` | [CERN-OHL-P-2.0](LICENSE) |
+| 工具、测试、CI 和 Git 配置 | `tools/`、`tests/`、`.github/workflows/verify.yml`、`.gitattributes`、`.gitignore` | [MIT](LICENSES/MIT.txt) |
+| 文字说明、各目录的 README 和板卡预览图 | 仓库各级目录中的全部 `*.md` 文件、`docs/images/*.png` | [CC-BY-4.0](LICENSES/CC-BY-4.0.txt) |
+
+三种许可都允许在遵守相应条款的前提下商用。工程文件或预览图中包含的第三方符号、封装、模型和标识保留原有权利及声明。详见[许可范围](docs/licensing.md)和[第三方来源](THIRD_PARTY.md)。
 
 Copyright © 2026 **YaolinDong（董耀琳）** · [dong1505lin@gmail.com](mailto:dong1505lin@gmail.com)

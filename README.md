@@ -93,10 +93,18 @@ Issues, reproducible hardware findings and documented improvements are welcome. 
 
 ## License
 
-- Original hardware contributions: **[CERN-OHL-P-2.0](LICENSE)**.
-- Scripts, tests and CI: **[MIT](LICENSES/MIT.txt)**.
-- Original documentation: **[CC-BY-4.0](LICENSES/CC-BY-4.0.txt)**.
+The following licenses apply to YaolinDong’s contributions. Paths are relative to the repository root.
 
-These licenses permit commercial use subject to their conditions. Existing third-party rights and notices are retained; see [licensing scope](docs/licensing.md) and [third-party sources](THIRD_PARTY.md).
+| Content | Files | License |
+|---|---|---|
+| Editable EasyEDA project, schematics, PCB and panel | `hardware/infrabot_pcb_4p3/` | [CERN-OHL-P-2.0](LICENSE) |
+| Custom LED2 footprint, STEP model and model binding | `hardware/library/LED2_R6*` | [CERN-OHL-P-2.0](LICENSE) |
+| Schematic drawings and export record | `docs/schematics/infrabot-pcb-4p3-R8-schematic.pdf`, `docs/schematics/native-svg-R8.zip`, `docs/schematics/provenance.json` | [CERN-OHL-P-2.0](LICENSE) |
+| Fabrication and assembly files | `manufacturing/R8/Gerber.zip`, `manufacturing/R8/BOM.csv`, `manufacturing/R8/CPL.csv`, `manufacturing/R8/manifest.json` | [CERN-OHL-P-2.0](LICENSE) |
+| Expected pin connections and design verification records | `verification/*.json`, `verification/evidence/*.json` | [CERN-OHL-P-2.0](LICENSE) |
+| Tools, tests, CI and Git configuration | `tools/`, `tests/`, `.github/workflows/verify.yml`, `.gitattributes`, `.gitignore` | [MIT](LICENSES/MIT.txt) |
+| Written guides, README files and board previews | All `*.md` files throughout the repository, `docs/images/*.png` | [CC-BY-4.0](LICENSES/CC-BY-4.0.txt) |
+
+All three licenses permit commercial use under their respective terms. Third-party symbols, footprints, models and marks retain their original rights and notices, including when embedded in design files or previews. See the [licensing scope](docs/licensing.md) and [third-party sources](THIRD_PARTY.md).
 
 Copyright © 2026 **YaolinDong (董耀琳)** · [dong1505lin@gmail.com](mailto:dong1505lin@gmail.com)
